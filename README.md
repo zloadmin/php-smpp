@@ -11,7 +11,7 @@ Installation
 -----
 
 ``` bash
-php composer.phar require its/php-smpp:dev-master
+php composer.phar require zloadmin/php-smpp:dev-master
 ```
 
 Basic usage example
